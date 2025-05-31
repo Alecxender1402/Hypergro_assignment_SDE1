@@ -117,8 +117,9 @@ npm run dev
 ---
 ## image
 
-![Home Page](client/public/screenshots/properties.png)
-
+![properties Page](client/public/screenshots/properties.png)
+![favourites page](client/public/screenshots/favorites.png)
+![recommdations page](client/public/screenshots/recommdations.png)
 
 
 **Enjoy Property Hub! 🚀**
