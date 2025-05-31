@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://hypergro-ai-backend1.onrender.com/api';
+const API_BASE_URL = '';
 
 // Create axios instance with interceptors for auth
 const api = axios.create({
