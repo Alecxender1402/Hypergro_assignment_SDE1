@@ -122,26 +122,11 @@ Contributions are welcome! Please open issues and submit pull requests.
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
-## 🙏 Acknowledgements
-
-- [Hypergro.ai](https://hypergro.ai)
-- [Upstash](https://upstash.com)
-- [Render](https://render.com)
-- [Vercel](https://vercel.com)
-
----
-
 ## 💬 Contact
 
-For questions or support, please open an issue or contact the maintainer.
+For questions or support, please open an issue.
 
 ---
 
-**Enjoy using Hypergro AI Property Hub! 🚀**
+**Enjoy Property Hub! 🚀**
 
