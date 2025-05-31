@@ -115,18 +115,11 @@ npm run dev
 | `npm test`      | Run tests                |
 
 ---
+## image
 
-## 🤝 Contributing
+![Home Page](client/public/screenshots/properties.png)
 
-Contributions are welcome! Please open issues and submit pull requests.
 
----
-
-## 💬 Contact
-
-For questions or support, please open an issue.
-
----
 
 **Enjoy Property Hub! 🚀**
 
